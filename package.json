@@ -1,0 +1,11 @@
+{
+  "name": "quickee",
+  "version": "0.0.0",
+  "dependencies": {
+    "express": "~3.1.0"
+    
+  },
+  "devDependencies": {
+
+  }
+}
